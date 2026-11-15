@@ -1,4 +1,4 @@
-![Chest-X-Ray-Pneumonia-Classification](Chest X-Ray Pneumonia Classification.png)
+![Chest X-Ray Pneumonia Classification](<escape>./Chest%20X-Ray%20Pneumonia%20Classification.png</escape>)
 
 # 🩻 Chest X-Ray Pneumonia Classification 
 
