@@ -1,4 +1,6 @@
-# 🩻 Chest X-Ray Pneumonia Classification
+![Chest-X-Ray-Pneumonia-Classification](Chest X-Ray Pneumonia Classification.png)
+
+# 🩻 Chest X-Ray Pneumonia Classification 
 
 A deep learning project that classifies chest X-ray images into
 **NORMAL** and **PNEUMONIA** categories using a pretrained ResNet-18
